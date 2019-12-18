@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Movie Catalogue Pro</string>
+
+    <string name="title_movie">Movies</string>
+
+    <string name="title_show">TV Shows</string>
+    <string name="image_photo_condesc">Image Photo</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_year">Item Year</string>
+    <string name="item_rating">Item Rating</string>
+    <string name="item_description">Item Description</string>
+    <string name="title_fave">Fave</string>
+
+    <string name="title_tabfav_movie">Movie</string>
+    <string name="title_tabfav_show">TVShow</string>
+
+</resources>
